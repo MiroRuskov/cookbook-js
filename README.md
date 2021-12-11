@@ -4,7 +4,7 @@
 * [Installation](#installation)
 * [Application Structure](#application-structure)
 * [About the Project](#about-the-project)
-* [Website](#website)
+* [Website](https://cookbook-js.github.io/)
 
 
 ## Installation

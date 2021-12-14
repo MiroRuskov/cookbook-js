@@ -1,4 +1,4 @@
-![UX---Web-Design-November-2020](https://github.com/MiroRuskov/UX---Web-Design-November-2020/blob/main/_README/UX%26Web.jpg)
+![CookBook - Single Page Application](https://github.com/MiroRuskov/cookbook-js/blob/main/cookbook.jpg)
 # cookbook-js
 ## Table of Contents
 
